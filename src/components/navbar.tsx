@@ -1,11 +1,14 @@
 "use client";
 
 import Link from "next/link";
+import { useRouter } from "next/navigation";
 import { ConnectKitButton } from "connectkit";
 import { Button } from "./ui/button";
 import { Input } from "./ui/input";
 
 export function Navbar() {
+    const router = useRouter();
+
     return (
         <header className="sticky left-0 top-0 z-[100] flex w-full flex-col border-b border-border bg-background">
             <nav className="flex h-[48px] bg-background justify-center">
@@ -18,6 +21,11 @@ export function Navbar() {
                         type="text"
                         placeholder="Search"
                         className="w-[300px]"
+                        onKeyDown={(e) => {
+                            if (e.key === "Enter") {
+                                router.push(`/?q=${e.currentTarget.value}`);
+                            }
+                        }}
                     />
 
                     <div className="space-x-2">

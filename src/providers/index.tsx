@@ -6,7 +6,7 @@ import { FavoritesStoreProvider } from "./favorites-store";
 export function Providers({ children }: { children: React.ReactNode }) {
     return (
         <ReactQueryProvider>
-            <ThemeProvider attribute="class" defaultTheme="dark">
+            <ThemeProvider attribute="class" defaultTheme="light">
                 <Web3Provider>
                     <FavoritesStoreProvider>{children}</FavoritesStoreProvider>
                 </Web3Provider>
