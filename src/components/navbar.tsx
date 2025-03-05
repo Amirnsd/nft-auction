@@ -29,7 +29,7 @@ export function Navbar() {
         />
 
         <div className="space-x-2 flex items-center">
-            <Button variant="ghost" className="hidden md:inline-flex" asChild>
+            <Button variant="default" className="hidden md:inline-flex" asChild>
                 <Link href="/favorites">Favorites</Link>
             </Button>
 
