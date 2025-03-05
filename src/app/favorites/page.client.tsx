@@ -22,18 +22,18 @@ export function FavoritesClientPage({ auctions }: FavoritesClientPageProps) {
     }
 
     return (
-        <div className="grid grid-cols-4 gap-4">
-            {favoriteAuctions.map((auction: any) => (
-                <AuctionCard
-                    key={auction.address}
-                    title={auction.title}
-                    image={auction.image}
-                    description={auction.description}
-                    price={auction.price}
-                    ends={new Date(auction.ends)}
-                    address={auction.address}
-                />
-            ))}
+        <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-4">
+        {favoriteAuctions.map((auction: any) => (
+            <AuctionCard
+                key={auction.address}
+                title={auction.title}
+                image={auction.image}
+                description={auction.description}
+                price={auction.price}
+                ends={new Date(auction.ends)}
+                address={auction.address}
+            />
+        ))}
         </div>
     );
 }

@@ -25,13 +25,13 @@ export function AuctionClientPage({ auction }: AuctionClientPageProps) {
     }
 
     return (
-        <div className="grid grid-cols-2 gap-10 h-full">
+        <div className="grid grid-cols-1 md:grid-cols-2 gap-6 md:gap-10 h-full">
             <div className="relative rounded-lg overflow-hidden">
                 <picture>
                     <img
                         src={auction.image}
                         alt=""
-                        className="object-cover h-full w-full"
+                        className="object-cover w-full h-auto md:h-full"
                     />
                 </picture>
 
@@ -50,7 +50,7 @@ export function AuctionClientPage({ auction }: AuctionClientPageProps) {
                 </Button>
             </div>
 
-            <div className="flex flex-col h-full ">
+            <div className="flex flex-col h-full space-y-4">
                 <div className="flex-grow overflow-y-auto">
                     <div className="space-y-4 h-full">
                         <div>
