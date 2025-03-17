@@ -8,15 +8,21 @@ type EndsInProps = {
 };
 
 export function EndsIn({ ends }: EndsInProps) {
-    const [timeLeft, setTimeLeft] = useState(getTimeLeft(ends));
+    const [timeLeft, setTimeLeft] = useState(() => getTimeLeft(ends));
+    const [mounted, setMounted] = useState(false);
 
     useEffect(() => {
+        setMounted(true);
         const timer = setInterval(() => {
             setTimeLeft(getTimeLeft(ends));
         }, 1000);
 
         return () => clearInterval(timer);
     }, [ends]);
+
+    if (!mounted) {
+        return null; // Return null on server and first render
+    }
 
     const values = [
         {
