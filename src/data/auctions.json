@@ -99,7 +99,7 @@
         "image": "https://i.seadn.io/s/raw/files/2419088f2e700c3c923d592e54f4f546.png?auto=format&dpr=1&w=1000",
         "description": "An explosive digital masterpiece, 'BlazeEntity #1840' bursts with fiery hues and electric energy. Sale ends on 2025-04-01T21:19:00.",
         "price": 14.29,
-        "ends": "2025-04-01",
+        "ends": "2025-04-13",
         "address": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
         "creator": "0xA199586D2BB372ff5fa8520a3aBA87D067B75EAE",
         "bidders": [
@@ -267,5 +267,15 @@
                 "time": "2025-03-29T00:15:38.705Z"
             }
         ]
+    },
+    {
+        "title": "Son of Light #2441",
+        "image": "https://i.seadn.io/s/raw/files/f5b254af3def3a65eaf2f4be7d51a6d0.jpg?auto=format&dpr=1&w=1000",
+        "description": "A futuristic warrior clad in a high-tech hooded cloak and an ornate horned helmet stands confidently in a neon-lit cyberpunk city. The figure wears a glowing, armored mask with teal lights and a large, intricate pendant resembling a symbol of justice. A katana is strapped to their back, completing the look of a mysterious, high-tech vigilante or guardian.",
+        "price": 7.31,
+        "ends": "2025-11-30T21:17",
+        "creator": "0xC14Ed0928F6EB14B6f559e21F554Ec9281C0a21e",
+        "address": "0xdf95a7f4ad06f",
+        "bidders": []
     }
 ]

@@ -55,6 +55,13 @@ export function Navbar() {
                         >
                             <Link href="/favorites">Favorites</Link>
                         </Button>
+                        <Button
+                            variant="default"
+                            className="hidden sm:inline-flex"
+                            asChild
+                        >
+                            <Link href="/feed/ended">Ended Auctions</Link>
+                        </Button>
 
                         <ConnectKitButton.Custom>
                             {({
@@ -95,6 +102,9 @@ export function Navbar() {
                 )}
                 <Button variant="default" className="flex-1" asChild>
                     <Link href="/favorites">Favorites</Link>
+                </Button>
+                <Button variant="default" className="flex-1" asChild>
+                    <Link href="/feed/ended">Ended Auctions</Link>
                 </Button>
             </div>
         </header>
