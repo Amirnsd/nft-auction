@@ -55,7 +55,7 @@ export function Bid({ minBid, auctionAddress }: BidProps) {
                 const error = await response.text();
                 throw new Error(error);
             }
-            
+
             toast.success("Bid placed successfully!");
             router.refresh();
         } catch (error) {

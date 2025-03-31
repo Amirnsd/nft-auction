@@ -4,7 +4,6 @@ import { Text, Gavel, Timer, Heart } from "lucide-react";
 import { Button } from "@/components/ui/button";
 import { EndsIn } from "@/components/ends-in";
 import { Bid } from "@/components/bid";
-import { ShareButton } from "@/components/ShareButton";
 import { useFavoritesStore } from "@/providers/favorites-store";
 import { truncateAddress, cn } from "@/lib/utils";
 
@@ -36,25 +35,19 @@ export function AuctionClientPage({ auction }: AuctionClientPageProps) {
                     />
                 </picture>
 
-                <div className="absolute top-2 right-2 flex gap-2">
-                    <ShareButton 
-                        auctionTitle={auction.title}
-                        auctionUrl={window.location.href}
+                <Button
+                    variant="secondary"
+                    onClick={() => handleFavorite()}
+                    className="absolute top-2 right-2 hover:cursor-pointer"
+                >
+                    <Heart
+                        className={
+                            isFavorite(auction.address)
+                                ? "fill-red-500 text-red-500"
+                                : ""
+                        }
                     />
-                    <Button
-                        variant="secondary"
-                        onClick={() => handleFavorite()}
-                        className="hover:cursor-pointer"
-                    >
-                        <Heart
-                            className={
-                                isFavorite(auction.address)
-                                    ? "fill-red-500 text-red-500"
-                                    : ""
-                            }
-                        />
-                    </Button>
-                </div>
+                </Button>
             </div>
 
             <div className="flex-grow overflow-y-auto space-y-6">
