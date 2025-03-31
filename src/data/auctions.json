@@ -1,0 +1,271 @@
+[
+    {
+        "title": "Doodle #5221",
+        "image": "https://i.seadn.io/s/raw/files/16fa6d078b38ae323e22564171d82e7d.png?auto=format&dpr=1&w=3840",
+        "description": "A community-driven collectibles project featuring art by Burnt Toast. Doodles come in a joyful range of colors, traits and sizes with a collection size of 10,000. Each Doodle allows its owner to vote for experiences and activations paid for by the Doodles Community Treasury. Burnt Toast is the working alias for Scott Martin, a Canadian-based illustrator, designer, animator and muralist.",
+        "price": 31,
+        "ends": "2025-05-20",
+        "address": "0x08265dA01E1A65d62b903c7B34c08cB389bF3D99",
+        "creator": "0xd447b49CD040D20BC21e49ffEa6487F5638e4346",
+        "bidders": [
+            {
+                "address": "0x76D76ee8823dE52A1A431884c2ca930C5e72bff3",
+                "time": "2025-02-24"
+            },
+            {
+                "address": "0x53387F3321FD69d1E030BB921230dFb188826AFF",
+                "time": "2025-02-28"
+            },
+            {
+                "address": "0x1a3d9D7A717D64e6088aC937d5aAcDD3E20ca963",
+                "time": "2025-03-01"
+            },
+            {
+                "address": "0xC14Ed0928F6EB14B6f559e21F554Ec9281C0a21e",
+                "time": "2025-03-07T23:34:54.799Z"
+            }
+        ]
+    },
+    {
+        "title": "Bored Ape #7180",
+        "image": "https://i.seadn.io/gae/xBBPcuFQiIlpz7ni8UWUfgJX36gqyb1DbvjEtvPkDOofayizfFQ2o84vSuLlIpVVTWAqPEsVqIuXtbn-fFtWuvP1Z_OEWdGU_MiJ_A?auto=format&dpr=1&w=1000",
+        "description": "Bored Ape Yacht Club is a collection of 10,000 unique Bored Ape NFTs—each one hand-drawn and programmatically generated.",
+        "price": 50.38,
+        "ends": "2025-03-27",
+        "address": "0xbc4ca0eda7647a8ab7c2061c2e118a18a936f13d",
+        "creator": "0x1a3d9D7A717D64e6088aC937d5aAcDD3E20ca963",
+        "bidders": [
+            {
+                "address": "0x76D76ee8823dE52A1A431884c2ca930C5e72bff3",
+                "time": "2025-03-01"
+            },
+            {
+                "address": "0x53387F3321FD69d1E030BB921230dFb188826AFF",
+                "time": "2025-03-05"
+            }
+        ]
+    },
+    {
+        "title": "Nakamigos #4057",
+        "image": "https://i.seadn.io/s/raw/files/aeb2d3d104fef2d628af3553f9feaec5.png?auto=format&dpr=1&w=1000",
+        "description": "Featuring a bold and vibrant character design, this Nakamigos #4057 artwork captivates with intricate details and a dynamic color palette.",
+        "price": 417.38,
+        "ends": "2025-03-28",
+        "address": "0x64E2Eb3D5520F18BEd1bdE4F38F851a9F9A74f3D",
+        "creator": "0x25813078da813F687ca6a44F199E8f6A78f49E66",
+        "bidders": [
+            {
+                "address": "0xA1B2C3D4E5F60718293A4B5C6D7E8F9012345678",
+                "time": "2025-03-02T10:00:00Z"
+            }
+        ]
+    },
+    {
+        "title": "Charging My Ghost",
+        "image": "https://i.seadn.io/s/raw/files/fb0d62a1e3fc07fea1c12eae4bfcbb69.jpg?auto=format&dpr=1&w=1000",
+        "description": "An ethereal digital artwork, 'Charging My Ghost' showcases a spectral figure with luminous accents and mysterious shadows. ",
+        "price": 1990.3,
+        "ends": "2025-04-17",
+        "address": "0x7DBB4bdCfE614398D1a68ecc219F15280d0959E0",
+        "creator": "0x7BdE4488F40794e459b7D171a3232D25B09d89e0",
+        "bidders": [
+            {
+                "address": "0xUserAddress1",
+                "time": "2025-02-26T15:00:00Z"
+            },
+            {
+                "address": "0xUserAddress2",
+                "time": "2025-02-27T12:30:00Z"
+            }
+        ]
+    },
+    {
+        "title": "dud #1",
+        "image": "https://i.seadn.io/s/raw/files/6e429da58d0af5766f247e5cdf721d50.png?auto=format&dpr=1&w=1000",
+        "description": "A playful and quirky digital creation featuring bold graphics and lively colors. A fun piece that stands out in any collection.",
+        "price": 10,
+        "ends": "2025-03-27",
+        "address": "0xFbE0c54d696Fa6c93f35D4CA7D656561816C15F6",
+        "creator": "0x9b65Ac249749F307d3fb1c72095ca01f86101542",
+        "bidders": [
+            {
+                "address": "0xB1B2C3D4E5F60718293A4B5C6D7E8F9012345678",
+                "time": "2025-03-27T10:00:00Z"
+            }
+        ]
+    },
+    {
+        "title": "BlazeEntity 🔥⚡ #1840",
+        "image": "https://i.seadn.io/s/raw/files/2419088f2e700c3c923d592e54f4f546.png?auto=format&dpr=1&w=1000",
+        "description": "An explosive digital masterpiece, 'BlazeEntity #1840' bursts with fiery hues and electric energy. Sale ends on 2025-04-01T21:19:00.",
+        "price": 14.29,
+        "ends": "2025-04-01",
+        "address": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+        "creator": "0xA199586D2BB372ff5fa8520a3aBA87D067B75EAE",
+        "bidders": [
+            {
+                "address": "0xC1B2C3D4E5F60718293A4B5C6D7E8F9012345678",
+                "time": "2025-04-01T10:00:00Z"
+            }
+        ]
+    },
+    {
+        "title": "Lil Pudgy #9606",
+        "image": "https://i.seadn.io/gcs/files/32345617aeaf898c722e06561ce9e46d.png?auto=format&dpr=1&w=1000",
+        "description": "A delightful portrait that captures the charming and playful essence of Lil Pudgy. ",
+        "price": 6.92,
+        "ends": "2025-04-12",
+        "address": "0xd5FBDa4C79F38920159fE5f22DF9655FDe292d47",
+        "creator": "0x5dcFAE56A8195840d4A3622f0BF79b6465B214e7",
+        "bidders": [
+            {
+                "address": "0xD1B2C3D4E5F60718293A4B5C6D7E8F9012345678",
+                "time": "2025-03-12T10:00:00Z"
+            },
+            {
+                "address": "0xC14Ed0928F6EB14B6f559e21F554Ec9281C0a21e",
+                "time": "2025-03-11T17:09:14.366Z"
+            }
+        ]
+    },
+    {
+        "title": "Wink Realm - Starter Pack",
+        "image": "https://i.seadn.io/s/raw/files/40a7498d8d2fc606fc5c5eebec196480.jpg?auto=format&dpr=1&w=1000",
+        "description": "A modern and sleek digital collectible, the Wink Realm Starter Pack offers a glimpse into an innovative virtual world. Sale end information: not specified.",
+        "price": 23.91,
+        "ends": "2025-04-10",
+        "address": "0xdAC17F958D2ee523a2206206994597C13D831ec7",
+        "creator": "0xDd83b8D42605647F58CbFEC5F95A1b71F4920069",
+        "bidders": [
+            {
+                "address": "0xE1B2C3D4E5F60718293A4B5C6D7E8F9012345678",
+                "time": "2025-04-10T10:00:00Z"
+            },
+            {
+                "address": "0xC14Ed0928F6EB14B6f559e21F554Ec9281C0a21e",
+                "time": "2025-03-11T17:04:11.585Z"
+            }
+        ]
+    },
+    {
+        "title": "Elemental #9467",
+        "image": "https://i.seadn.io/s/raw/files/232eef9c8bcae41e759d1ce8a060d63d.png?auto=format&dpr=1&w=1000",
+        "description": "A striking digital artwork capturing raw elemental forces in dynamic interplay. Owned by nftinitcom_edi.",
+        "price": 27.14,
+        "ends": "2025-05-17",
+        "address": "0x11357bFDD4f365fb15B094658aaFe38b7dcBF5b8",
+        "creator": "0x51C72848c68a965f66FA7a88855F9f7784502a7F",
+        "bidders": [
+            {
+                "address": "0xF1B2C3D4E5F60718293A4B5C6D7E8F9012345678",
+                "time": "2025-03-03T03:00:00Z"
+            }
+        ]
+    },
+    {
+        "title": "Wonderwoman #2714",
+        "image": "https://i.seadn.io/s/raw/files/e4f82be2fc0ab879227befe306aa197b.jpg?auto=format&dpr=1&w=1000",
+        "description": "This anime-style girl has striking blue eyes and short, messy black hair that frames her face. Her expression is confident yet slightly surprised, with soft pink lips slightly parted.",
+        "price": 13.44,
+        "ends": "2025-05-01T14:14:00",
+        "address": "0x7Cb027917b27BCb5963C548657a008BF45b25BDc",
+        "creator": "0x68d3A973E7272EB388022a5C6518d9b2a2e66fBf",
+        "bidders": [
+            {
+                "address": "0xF1A2B3C4D5E60718293A4B5C6D7E8F9012345679",
+                "time": "2025-05-01T10:00:00Z"
+            }
+        ]
+    },
+    {
+        "title": "CryptoPunk #1001",
+        "image": "https://i.seadn.io/s/raw/files/02ac4d20d71afeb2d8f7c11e36d492fb.png?auto=format&dpr=1&w=1000",
+        "description": "CryptoPunk #1001. A classic and iconic digital collectible from the CryptoPunks series.",
+        "price": 82.91,
+        "ends": "2025-04-11",
+        "address": "0xDFaa75323fB721e5f29D43859390f62Cc4B600b8",
+        "creator": "0x1FA57f879417e029Ef57D7Ce915b0aA56A507C31",
+        "bidders": [
+            {
+                "address": "0xF2B2C3D4E5F60718293A4B5C6D7E8F901234567A",
+                "time": "2025-03-01T12:00:00Z"
+            },
+            {
+                "address": "0xC14Ed0928F6EB14B6f559e21F554Ec9281C0a21e",
+                "time": "2025-03-07T23:48:06.901Z"
+            },
+            {
+                "address": "0xC14Ed0928F6EB14B6f559e21F554Ec9281C0a21e",
+                "time": "2025-03-29T00:20:23.718Z"
+            }
+        ]
+    },
+    {
+        "title": "Bored Ape #7064",
+        "image": "https://i.seadn.io/gae/G19mrbX19zEGKA_hWT518x958UYKU9zws9Tw8r9lAs6p-AbftCEVLWNS0xLyqagL85jrhyUM5VJvjVcd3WcDZuFKTmZ7y3YowlaKtg?auto=format&dpr=1&w=1000",
+        "description": "Bored Ape Yacht Club is a collection of 10,000 unique Bored Ape NFTs—each one hand-drawn and programmatically generated. ",
+        "price": 17.77,
+        "ends": "2025-03-23T18:16:00",
+        "address": "0x87870Bca3F3fD6335C3F4ce8392D69350B4fA4E2",
+        "creator": "0xbA3cB449bD2B4ADddBc894D8697F5170800EAdeC",
+        "bidders": [
+            {
+                "address": "0xA2B3C4D5E6F60718293A4B5C6D7E8F9012345670",
+                "time": "2025-03-23T10:00:00Z"
+            }
+        ]
+    },
+    {
+        "title": "#Devilman",
+        "image": "https://i.seadn.io/s/raw/files/f096abe18af2f426ad4345f322a9d5d8.png?auto=format&dpr=1&w=1000",
+        "description": "This is the Devilman NFT which has very complicated design.",
+        "price": 12.31,
+        "ends": "2025-03-25T18:32",
+        "creator": "0xC14Ed0928F6EB14B6f559e21F554Ec9281C0a21e",
+        "address": "0x555c01d9b549b",
+        "bidders": [
+            {
+                "address": "0xC14Ed0928F6EB14B6f559e21F554Ec9281C0a21e",
+                "time": "2025-03-07T23:36:35.141Z"
+            },
+            {
+                "address": "0xC14Ed0928F6EB14B6f559e21F554Ec9281C0a21e",
+                "time": "2025-03-07T23:36:45.161Z"
+            },
+            {
+                "address": "0xC14Ed0928F6EB14B6f559e21F554Ec9281C0a21e",
+                "time": "2025-03-07T23:49:23.965Z"
+            }
+        ]
+    },
+    {
+        "title": "#Human Unreadable",
+        "image": "https://i.seadn.io/s/raw/files/b32fe5ec5b01ac9f3e7b2e4776fe501e.png?auto=format&dpr=1&w=1000This abstract digital artwork features a dynamic composition of overlapping, translucent black and white geometric shapes. The interplay of light and shadow creates a sense of depth and fluidity, resembling fractured glass or folded fabric. ",
+        "description": "This abstract digital artwork features a dynamic composition of overlapping, translucent black and white geometric shapes. The interplay of light and shadow creates a sense of depth and fluidity, resembling fractured glass or folded fabric. ",
+        "price": 16.21,
+        "ends": "2025-04-29T17:07",
+        "creator": "0xC14Ed0928F6EB14B6f559e21F554Ec9281C0a21e",
+        "address": "0xa9252b3db9863",
+        "bidders": [
+            {
+                "address": "0xC14Ed0928F6EB14B6f559e21F554Ec9281C0a21e",
+                "time": "2025-03-11T17:08:04.585Z"
+            }
+        ]
+    },
+    {
+        "title": "BlazeEntity ",
+        "image": "https://i.seadn.io/s/raw/files/7dc9f7e75b35f379a5e7a8bcc4656d48.png?auto=format&dpr=1&w=1000",
+        "description": "BlazeEntity 🔥⚡ is an exclusive NFT collection that blends fire and electricity into a futuristic design. Each entity represents a unique force, full of energy and creativity. With vibrant, dynamic details, BlazeEntity gives collectors a rare opportunity to own a piece of an explosive digital universe! 🚀💥",
+        "price": 18.85,
+        "ends": "2025-10-29T23:15",
+        "creator": "0xC14Ed0928F6EB14B6f559e21F554Ec9281C0a21e",
+        "address": "0xce413bc776add",
+        "bidders": [
+            {
+                "address": "0xC14Ed0928F6EB14B6f559e21F554Ec9281C0a21e",
+                "time": "2025-03-29T00:15:38.705Z"
+            }
+        ]
+    }
+]

@@ -1,0 +1,602 @@
+[
+    {
+        "id": "4dkl5O9LOKg",
+        "title": "What is an NFT? (Non-Fungible Tokens Explained)",
+        "length": "11 minutes, 7 seconds",
+        "thumbnail": "https://i.ytimg.com/vi/4dkl5O9LOKg/hqdefault.jpg"
+    },
+    {
+        "id": "vZ2UZdB07fo",
+        "title": "What is Staking in Crypto (Definition + Rewards + Risks)",
+        "length": "7 minutes, 5 seconds",
+        "thumbnail": "https://i.ytimg.com/vi/vZ2UZdB07fo/hqdefault.jpg"
+    },
+    {
+        "id": "Hftzrb3jGAs",
+        "title": "What is a Bitcoin Faucet? (How it works + Examples)",
+        "length": "6 minutes, 51 seconds",
+        "thumbnail": "https://i.ytimg.com/vi/Hftzrb3jGAs/hqdefault.jpg"
+    },
+    {
+        "id": "XLcWy1uV8YM",
+        "title": "What is Proof of Work? (Cryptocurrency Explanation)",
+        "length": "9 minutes, 36 seconds",
+        "thumbnail": "https://i.ytimg.com/vi/XLcWy1uV8YM/hqdefault.jpg"
+    },
+    {
+        "id": "SQyg9pyJ1Ac",
+        "title": "What is a Cryptocurrency Wallet? (3 Types + Key Examples)",
+        "length": "5 minutes, 38 seconds",
+        "thumbnail": "https://i.ytimg.com/vi/SQyg9pyJ1Ac/hqdefault.jpg"
+    },
+    {
+        "id": "3ehaSqwUZ0s",
+        "title": "What is Ethereum Gas? (Examples + Easy Explanation)",
+        "length": "9 minutes, 41 seconds",
+        "thumbnail": "https://i.ytimg.com/vi/3ehaSqwUZ0s/hqdefault.jpg"
+    },
+    {
+        "id": "kHybf1aC-jE",
+        "title": "What is a Blockchain? (Animated + Examples)",
+        "length": "8 minutes, 27 seconds",
+        "thumbnail": "https://i.ytimg.com/vi/kHybf1aC-jE/hqdefault.jpg"
+    },
+    {
+        "id": "DLu35sIqVTM",
+        "title": "What is Uniswap? (Animated) Decentralized Exchange + UNI Token",
+        "length": "8 minutes, 19 seconds",
+        "thumbnail": "https://i.ytimg.com/vi/DLu35sIqVTM/hqdefault.jpg"
+    },
+    {
+        "id": "6JytuGeMnKU",
+        "title": "What is a Mining Pool in Crypto? (Animated + Examples)",
+        "length": "8 minutes, 11 seconds",
+        "thumbnail": "https://i.ytimg.com/vi/6JytuGeMnKU/hqdefault.jpg"
+    },
+    {
+        "id": "gTfNtop9vzM",
+        "title": "What is a Cryptographic Hashing Function? (Example + Purpose)",
+        "length": "7 minutes, 8 seconds",
+        "thumbnail": "https://i.ytimg.com/vi/gTfNtop9vzM/hqdefault.jpg"
+    },
+    {
+        "id": "pyaIppMhuic",
+        "title": "What are Smart Contracts in Crypto? (4 Examples + Animated)",
+        "length": "8 minutes, 9 seconds",
+        "thumbnail": "https://i.ytimg.com/vi/pyaIppMhuic/hqdefault.jpg"
+    },
+    {
+        "id": "17QRFlml4pA",
+        "title": "What is DeFi? (Decentralized Finance Animated)",
+        "length": "16 minutes, 25 seconds",
+        "thumbnail": "https://i.ytimg.com/vi/17QRFlml4pA/hqdefault.jpg"
+    },
+    {
+        "id": "HhumRtzglNM",
+        "title": "What is Chia? (Animated) Eco-Friendly Storage-Based Crypto",
+        "length": "7 minutes, 42 seconds",
+        "thumbnail": "https://i.ytimg.com/vi/HhumRtzglNM/hqdefault.jpg"
+    },
+    {
+        "id": "dVJzcFDo498",
+        "title": "What is a Liquidity Pool in Crypto? (Animated)",
+        "length": "9 minutes, 30 seconds",
+        "thumbnail": "https://i.ytimg.com/vi/dVJzcFDo498/hqdefault.jpg"
+    },
+    {
+        "id": "422HORNUfkU",
+        "title": "Crypto Coin vs Token (Differences + Examples)",
+        "length": "7 minutes, 4 seconds",
+        "thumbnail": "https://i.ytimg.com/vi/422HORNUfkU/hqdefault.jpg"
+    },
+    {
+        "id": "vTf5dgcw52U",
+        "title": "Crypto Taxes in US with Examples (Capital Gains + Mining)",
+        "length": "9 minutes, 52 seconds",
+        "thumbnail": "https://i.ytimg.com/vi/vTf5dgcw52U/hqdefault.jpg"
+    },
+    {
+        "id": "1PbZMudPP5E",
+        "title": "What is an Automated Market Maker? (Liquidity Pool Algorithm)",
+        "length": "10 minutes, 25 seconds",
+        "thumbnail": "https://i.ytimg.com/vi/1PbZMudPP5E/hqdefault.jpg"
+    },
+    {
+        "id": "byWul4xOBx0",
+        "title": "What is Metamask? Simple Cryptocurrency Wallet",
+        "length": "6 minutes, 6 seconds",
+        "thumbnail": "https://i.ytimg.com/vi/byWul4xOBx0/hqdefault.jpg"
+    },
+    {
+        "id": "dTCwssZ116A",
+        "title": "What is AAVE? (Animated) Crypto Borrowing and Lending Explained",
+        "length": "8 minutes, 18 seconds",
+        "thumbnail": "https://i.ytimg.com/vi/dTCwssZ116A/hqdefault.jpg"
+    },
+    {
+        "id": "YFaqng3YESE",
+        "title": "What is a Rug Pull in Crypto? (Meaning + 3 Examples)",
+        "length": "8 minutes, 7 seconds",
+        "thumbnail": "https://i.ytimg.com/vi/YFaqng3YESE/hqdefault.jpg"
+    },
+    {
+        "id": "_m6Mowq3Ptk",
+        "title": "What is Impermanent Loss in Crypto? (Animated + Examples)",
+        "length": "8 minutes, 18 seconds",
+        "thumbnail": "https://i.ytimg.com/vi/_m6Mowq3Ptk/hqdefault.jpg"
+    },
+    {
+        "id": "YiF6x193fRk",
+        "title": "What are Flash Loans? (Animated) Borrow MILLIONS Instantly in Crypto",
+        "length": "6 minutes, 50 seconds",
+        "thumbnail": "https://i.ytimg.com/vi/YiF6x193fRk/hqdefault.jpg"
+    },
+    {
+        "id": "SXT9iq__V8c",
+        "title": "What is the Lightning Network? (Animated) Free & Instant BTC Transaction",
+        "length": "6 minutes, 25 seconds",
+        "thumbnail": "https://i.ytimg.com/vi/SXT9iq__V8c/hqdefault.jpg"
+    },
+    {
+        "id": "LaeI5D6NDvw",
+        "title": "What is Yield Farming in Crypto? (Animated + 4 Examples)",
+        "length": "10 minutes, 44 seconds",
+        "thumbnail": "https://i.ytimg.com/vi/LaeI5D6NDvw/hqdefault.jpg"
+    },
+    {
+        "id": "LxnC8eFCOFA",
+        "title": "What is a Bitcoin Tumbler? (Legality + Examples)",
+        "length": "7 minutes, 6 seconds",
+        "thumbnail": "https://i.ytimg.com/vi/LxnC8eFCOFA/hqdefault.jpg"
+    },
+    {
+        "id": "opCOevmJAko",
+        "title": "\"Not Your Keys, Not your Crypto\" (Meaning + Issues)",
+        "length": "7 minutes, 11 seconds",
+        "thumbnail": "https://i.ytimg.com/vi/opCOevmJAko/hqdefault.jpg"
+    },
+    {
+        "id": "pGzfexGmuVw",
+        "title": "What is a Stablecoin? (How they work - ANIMATED)",
+        "length": "7 minutes, 37 seconds",
+        "thumbnail": "https://i.ytimg.com/vi/pGzfexGmuVw/hqdefault.jpg"
+    },
+    {
+        "id": "YaAIZ1gROaw",
+        "title": "What are ASIC Miners in Crypto? (Animated Explanation)",
+        "length": "5 minutes, 11 seconds",
+        "thumbnail": "https://i.ytimg.com/vi/YaAIZ1gROaw/hqdefault.jpg"
+    },
+    {
+        "id": "j4N0M0Od7_E",
+        "title": "Diamond Hands vs Paper Hands - Which Hands to Have?",
+        "length": "8 minutes, 4 seconds",
+        "thumbnail": "https://i.ytimg.com/vi/j4N0M0Od7_E/hqdefault.jpg"
+    },
+    {
+        "id": "oUusKpkSHkw",
+        "title": "Bitcoin Halving Explained (Animated) - Why, How, and What it Means for You!",
+        "length": "7 minutes, 18 seconds",
+        "thumbnail": "https://i.ytimg.com/vi/oUusKpkSHkw/hqdefault.jpg"
+    },
+    {
+        "id": "NTYbVnENeVo",
+        "title": "What is Sushiswap? (Animated) Sushi Token + Kashi + Miso Explained",
+        "length": "7 minutes, 43 seconds",
+        "thumbnail": "https://i.ytimg.com/vi/NTYbVnENeVo/hqdefault.jpg"
+    },
+    {
+        "id": "nT26cIz8HjI",
+        "title": "What is a Crypto Bridge? (Examples + Purpose for Blockchains)",
+        "length": "9 minutes",
+        "thumbnail": "https://i.ytimg.com/vi/nT26cIz8HjI/hqdefault.jpg"
+    },
+    {
+        "id": "cK8bAA6H5PY",
+        "title": "What is Tether? USDT Stablecoin - How it works + MAJOR Issues",
+        "length": "9 minutes, 37 seconds",
+        "thumbnail": "https://i.ytimg.com/vi/cK8bAA6H5PY/hqdefault.jpg"
+    },
+    {
+        "id": "i0GI6GwEWDQ",
+        "title": "What are Degen Yield Farms? (Animated) - Crypto Pyramid Schemes",
+        "length": "10 minutes, 43 seconds",
+        "thumbnail": "https://i.ytimg.com/vi/i0GI6GwEWDQ/hqdefault.jpg"
+    },
+    {
+        "id": "P8RlPsjGaR8",
+        "title": "What is ENS? Ethereum Name Service Lookup System",
+        "length": "7 minutes, 2 seconds",
+        "thumbnail": "https://i.ytimg.com/vi/P8RlPsjGaR8/hqdefault.jpg"
+    },
+    {
+        "id": "oW3Cp4JDhI4",
+        "title": "What is an AirDrop? How to find FREE Crypto & Why it's Given",
+        "length": "6 minutes, 36 seconds",
+        "thumbnail": "https://i.ytimg.com/vi/oW3Cp4JDhI4/hqdefault.jpg"
+    },
+    {
+        "id": "oyriORaeJOw",
+        "title": "6 Ways to Avoid Impermanent Loss (Crypto Liquidity Pools)",
+        "length": "8 minutes, 22 seconds",
+        "thumbnail": "https://i.ytimg.com/vi/oyriORaeJOw/hqdefault.jpg"
+    },
+    {
+        "id": "c4NCNfbz8oU",
+        "title": "What is Dollar Cost Averaging in Crypto? The SMARTEST Way to Invest",
+        "length": "7 minutes, 21 seconds",
+        "thumbnail": "https://i.ytimg.com/vi/c4NCNfbz8oU/hqdefault.jpg"
+    },
+    {
+        "id": "KHm0uUPqmVE",
+        "title": "What is a DAO in Crypto? (Decentralized Autonomous Organization)",
+        "length": "8 minutes, 21 seconds",
+        "thumbnail": "https://i.ytimg.com/vi/KHm0uUPqmVE/hqdefault.jpg"
+    },
+    {
+        "id": "mdoc-Qcc2-8",
+        "title": "What is The Ren Protocol? renBTC Token Explained",
+        "length": "8 minutes, 7 seconds",
+        "thumbnail": "https://i.ytimg.com/vi/mdoc-Qcc2-8/hqdefault.jpg"
+    },
+    {
+        "id": "bBNvqxDcUz0",
+        "title": "Crypto Debit Cards - How do they work?",
+        "length": "7 minutes, 45 seconds",
+        "thumbnail": "https://i.ytimg.com/vi/bBNvqxDcUz0/hqdefault.jpg"
+    },
+    {
+        "id": "pycVClxWUN8",
+        "title": "Ethereum 2.0 Upgrades Explained - Sharding, Beacon Chain, Proof of Stake (Animated)",
+        "length": "9 minutes, 22 seconds",
+        "thumbnail": "https://i.ytimg.com/vi/pycVClxWUN8/hqdefault.jpg"
+    },
+    {
+        "id": "SZpjvWMfgDA",
+        "title": "What is Sharding in Crypto? Scaling Solution (Animated)",
+        "length": "6 minutes, 36 seconds",
+        "thumbnail": "https://i.ytimg.com/vi/SZpjvWMfgDA/hqdefault.jpg"
+    },
+    {
+        "id": "x83EVUZ_EWo",
+        "title": "What is Proof of Stake? How it works (Animated) + Ethereum 2.0 Upgrade!",
+        "length": "10 minutes, 13 seconds",
+        "thumbnail": "https://i.ytimg.com/vi/x83EVUZ_EWo/hqdefault.jpg"
+    },
+    {
+        "id": "6_nOYsvXMsE",
+        "title": "What are Rollups in Crypto? ZKSnarks vs Optimistics Rollups Explained",
+        "length": "7 minutes, 40 seconds",
+        "thumbnail": "https://i.ytimg.com/vi/6_nOYsvXMsE/hqdefault.jpg"
+    },
+    {
+        "id": "cFRj2-jzm8E",
+        "title": "What are Sidechains in Crypto? Rootstock + Polygon Explained!",
+        "length": "6 minutes, 52 seconds",
+        "thumbnail": "https://i.ytimg.com/vi/cFRj2-jzm8E/hqdefault.jpg"
+    },
+    {
+        "id": "b3BcH5DvC-Q",
+        "title": "What is Crypto Arbitrage? Is Trading Profitable with Bots?",
+        "length": "8 minutes, 44 seconds",
+        "thumbnail": "https://i.ytimg.com/vi/b3BcH5DvC-Q/hqdefault.jpg"
+    },
+    {
+        "id": "S7-rfvpEpJs",
+        "title": "3 Stablecoin Algorithms Explained (Rebase, Empty Set Dollar, Basis Cash, Iron Finance)",
+        "length": "9 minutes, 29 seconds",
+        "thumbnail": "https://i.ytimg.com/vi/S7-rfvpEpJs/hqdefault.jpg"
+    },
+    {
+        "id": "Bu1GcyyFZ7w",
+        "title": "Soft Fork vs Hard Fork in Crypto (ETH Classic, Litecoin, BTC Cash...)",
+        "length": "6 minutes, 25 seconds",
+        "thumbnail": "https://i.ytimg.com/vi/Bu1GcyyFZ7w/hqdefault.jpg"
+    },
+    {
+        "id": "x75vOoUA4Vg",
+        "title": "What is a Dark Pool in Crypto? When + Why + How to use one!",
+        "length": "6 minutes, 1 second",
+        "thumbnail": "https://i.ytimg.com/vi/x75vOoUA4Vg/hqdefault.jpg"
+    },
+    {
+        "id": "2tTVJL4bpTU",
+        "title": "What is a DEX? How A Decentralized Exchange Works",
+        "length": "7 minutes, 12 seconds",
+        "thumbnail": "https://i.ytimg.com/vi/2tTVJL4bpTU/hqdefault.jpg"
+    },
+    {
+        "id": "-9NDKbJo_A4",
+        "title": "What is an Atomic Swap in Crypto? Time Locked Smart Contracts",
+        "length": "6 minutes, 1 second",
+        "thumbnail": "https://i.ytimg.com/vi/-9NDKbJo_A4/hqdefault.jpg"
+    },
+    {
+        "id": "a2Yd9mbfAos",
+        "title": "What is an ICO - BIG Risks of an Initial Coin Offering Explained",
+        "length": "6 minutes, 36 seconds",
+        "thumbnail": "https://i.ytimg.com/vi/a2Yd9mbfAos/hqdefault.jpg"
+    },
+    {
+        "id": "MqRfurKVM1A",
+        "title": "What is Curve Finance? I'm earning 25% AND protecting against a crash",
+        "length": "13 minutes, 51 seconds",
+        "thumbnail": "https://i.ytimg.com/vi/MqRfurKVM1A/hqdefault.jpg"
+    },
+    {
+        "id": "a3CZBBqIfn0",
+        "title": "Avoid Crypto Scams - 7 Signs of a Rug Pull!",
+        "length": "7 minutes, 42 seconds",
+        "thumbnail": "https://i.ytimg.com/vi/a3CZBBqIfn0/hqdefault.jpg"
+    },
+    {
+        "id": "vdC8QzD4O9E",
+        "title": "What is VeChain? VET Supply Chain Solution Explained!",
+        "length": "9 minutes, 12 seconds",
+        "thumbnail": "https://i.ytimg.com/vi/vdC8QzD4O9E/hqdefault.jpg"
+    },
+    {
+        "id": "OqTGu9NlaBI",
+        "title": "What is Fulcrum? How I Made $600 from ETH Crashing",
+        "length": "13 minutes, 55 seconds",
+        "thumbnail": "https://i.ytimg.com/vi/OqTGu9NlaBI/hqdefault.jpg"
+    },
+    {
+        "id": "UMUztLQNqSI",
+        "title": "What is Cardano? ADA Explained with Animations",
+        "length": "10 minutes, 8 seconds",
+        "thumbnail": "https://i.ytimg.com/vi/UMUztLQNqSI/hqdefault.jpg"
+    },
+    {
+        "id": "B7sLnmlZ-kU",
+        "title": "What is Monero? XMR Explained with Animations",
+        "length": "11 minutes, 47 seconds",
+        "thumbnail": "https://i.ytimg.com/vi/B7sLnmlZ-kU/hqdefault.jpg"
+    },
+    {
+        "id": "dCpckWMXi4o",
+        "title": "I bought Tesla with Crypto! What is Mirror Protocol?",
+        "length": "15 minutes, 7 seconds",
+        "thumbnail": "https://i.ytimg.com/vi/dCpckWMXi4o/hqdefault.jpg"
+    },
+    {
+        "id": "4Zd-EVYEDP0",
+        "title": "What is FUD? How to PROFIT from Fear, Uncertainty, and Doubt in Crypto",
+        "length": "7 minutes, 50 seconds",
+        "thumbnail": "https://i.ytimg.com/vi/4Zd-EVYEDP0/hqdefault.jpg"
+    },
+    {
+        "id": "CbM2jidEn0s",
+        "title": "What is the Avalanche Network? AVAX Explained with Animations",
+        "length": "10 minutes, 22 seconds",
+        "thumbnail": "https://i.ytimg.com/vi/CbM2jidEn0s/hqdefault.jpg"
+    },
+    {
+        "id": "U9lrH0loAns",
+        "title": "What is Terra? UST and LUNA explained with Animations",
+        "length": "12 minutes, 19 seconds",
+        "thumbnail": "https://i.ytimg.com/vi/U9lrH0loAns/hqdefault.jpg"
+    },
+    {
+        "id": "ClWR1570UQw",
+        "title": "Uniswap V3 Explained - Concentrated Liquidity, NFT LP Tokens, Licensing\u2026",
+        "length": "11 minutes, 44 seconds",
+        "thumbnail": "https://i.ytimg.com/vi/ClWR1570UQw/hqdefault.jpg"
+    },
+    {
+        "id": "LrdG-pZw2Fc",
+        "title": "Quadratic Funding - Crypto Charity that SUPERCHARGES donations",
+        "length": "15 minutes, 51 seconds",
+        "thumbnail": "https://i.ytimg.com/vi/LrdG-pZw2Fc/hqdefault.jpg"
+    },
+    {
+        "id": "Umy75ihttwo",
+        "title": "What is Tezos - XTZ Self-Amending Explained with Animations",
+        "length": "9 minutes, 29 seconds",
+        "thumbnail": "https://i.ytimg.com/vi/Umy75ihttwo/hqdefault.jpg"
+    },
+    {
+        "id": "1jzROE6EhxM",
+        "title": "What is Solana? SOL Explained with Animations",
+        "length": "10 minutes, 27 seconds",
+        "thumbnail": "https://i.ytimg.com/vi/1jzROE6EhxM/hqdefault.jpg"
+    },
+    {
+        "id": "ssHDakpkaJo",
+        "title": "The 'Humble Farmer Thesis': A guide to profitable Yield Farming",
+        "length": "8 minutes, 10 seconds",
+        "thumbnail": "https://i.ytimg.com/vi/ssHDakpkaJo/hqdefault.jpg"
+    },
+    {
+        "id": "oRoS7VVwe7w",
+        "title": "What is Fantom? FTM Explained with Animations",
+        "length": "8 minutes, 13 seconds",
+        "thumbnail": "https://i.ytimg.com/vi/oRoS7VVwe7w/hqdefault.jpg"
+    },
+    {
+        "id": "YlAdEQp6ekM",
+        "title": "What is Polkadot? DOT Explained with Animations",
+        "length": "8 minutes, 27 seconds",
+        "thumbnail": "https://i.ytimg.com/vi/YlAdEQp6ekM/hqdefault.jpg"
+    },
+    {
+        "id": "uycQ7ReSt_c",
+        "title": "What are Oracles in Crypto? (Animated)",
+        "length": "8 minutes, 5 seconds",
+        "thumbnail": "https://i.ytimg.com/vi/uycQ7ReSt_c/hqdefault.jpg"
+    },
+    {
+        "id": "1cozsZP8yd4",
+        "title": "What is NEAR Protocol? NEAR Explained with Animations",
+        "length": "8 minutes, 5 seconds",
+        "thumbnail": "https://i.ytimg.com/vi/1cozsZP8yd4/hqdefault.jpg"
+    },
+    {
+        "id": "3K9DD5phJEY",
+        "title": "What is IOTA\u2019s Tangle? mIOTA Explained with Animations",
+        "length": "8 minutes, 29 seconds",
+        "thumbnail": "https://i.ytimg.com/vi/3K9DD5phJEY/hqdefault.jpg"
+    },
+    {
+        "id": "2B_orfSsd58",
+        "title": "xPollinate and Connext - My Favorite Bridge!",
+        "length": "8 minutes, 30 seconds",
+        "thumbnail": "https://i.ytimg.com/vi/2B_orfSsd58/hqdefault.jpg"
+    },
+    {
+        "id": "dlxYUQIMzqo",
+        "title": "What is Ripple? XRP Explained with Animations",
+        "length": "8 minutes, 53 seconds",
+        "thumbnail": "https://i.ytimg.com/vi/dlxYUQIMzqo/hqdefault.jpg"
+    },
+    {
+        "id": "G0gmPW8N88M",
+        "title": "What is BNB? Binance Smart Chain Explained with Animations",
+        "length": "7 minutes, 37 seconds",
+        "thumbnail": "https://i.ytimg.com/vi/G0gmPW8N88M/hqdefault.jpg"
+    },
+    {
+        "id": "JMTJvXyHJGU",
+        "title": "What is Litecoin? LTC Explained with Animations",
+        "length": "7 minutes, 40 seconds",
+        "thumbnail": "https://i.ytimg.com/vi/JMTJvXyHJGU/hqdefault.jpg"
+    },
+    {
+        "id": "cIiR4GRz47I",
+        "title": "Top 15 Cryptocurrencies Sorted by Marketcap since 2013 (Summarized)",
+        "length": "7 minutes, 13 seconds",
+        "thumbnail": "https://i.ytimg.com/vi/cIiR4GRz47I/hqdefault.jpg"
+    },
+    {
+        "id": "DuwQ6NuPQp4",
+        "title": "What are Wrapped Tokens? (Explained with Animations)",
+        "length": "7 minutes, 41 seconds",
+        "thumbnail": "https://i.ytimg.com/vi/DuwQ6NuPQp4/hqdefault.jpg"
+    },
+    {
+        "id": "mXEYCXCPI5c",
+        "title": "What is Axie Infinity? SLP + AXS explained with Animations",
+        "length": "6 minutes, 11 seconds",
+        "thumbnail": "https://i.ytimg.com/vi/mXEYCXCPI5c/hqdefault.jpg"
+    },
+    {
+        "id": "nHhAEkG1y2U",
+        "title": "What is Web 3.0? (Explained with Animations)",
+        "length": "8 minutes, 39 seconds",
+        "thumbnail": "https://i.ytimg.com/vi/nHhAEkG1y2U/hqdefault.jpg"
+    },
+    {
+        "id": "uBI3kF0vs-U",
+        "title": "What is Basic Attention Token? BAT + Brave Browser Explained with Animations",
+        "length": "9 minutes, 36 seconds",
+        "thumbnail": "https://i.ytimg.com/vi/uBI3kF0vs-U/hqdefault.jpg"
+    },
+    {
+        "id": "jGjmOjD_F-o",
+        "title": "What is the Shiba Inu Coin? SHIB Explained with Animations",
+        "length": "10 minutes, 2 seconds",
+        "thumbnail": "https://i.ytimg.com/vi/jGjmOjD_F-o/hqdefault.jpg"
+    },
+    {
+        "id": "RCB_udRbF7Q",
+        "title": "A Decentralized Youtube: How Odysee and LBRY Work",
+        "length": "8 minutes, 31 seconds",
+        "thumbnail": "https://i.ytimg.com/vi/RCB_udRbF7Q/hqdefault.jpg"
+    },
+    {
+        "id": "yVBsPIFTHYc",
+        "title": "Passive Income NFTs: The new way to retire",
+        "length": "8 minutes, 35 seconds",
+        "thumbnail": "https://i.ytimg.com/vi/yVBsPIFTHYc/hqdefault.jpg"
+    },
+    {
+        "id": "aNrR-vBavwQ",
+        "title": "What is Aurora? NEAR's Layer 2 Smart Contract",
+        "length": "7 minutes, 7 seconds",
+        "thumbnail": "https://i.ytimg.com/vi/aNrR-vBavwQ/hqdefault.jpg"
+    },
+    {
+        "id": "GWUwFDFOipo",
+        "title": "What is Polygon? MATIC Explained with Animations",
+        "length": "10 minutes, 15 seconds",
+        "thumbnail": "https://i.ytimg.com/vi/GWUwFDFOipo/hqdefault.jpg"
+    },
+    {
+        "id": "V-B6-ySxpbs",
+        "title": "Top 50 Cryptocurrencies summarized in 1 sentence",
+        "length": "9 minutes, 52 seconds",
+        "thumbnail": "https://i.ytimg.com/vi/V-B6-ySxpbs/hqdefault.jpg"
+    },
+    {
+        "id": "I34lOvUWsNc",
+        "title": "What is DeFi 2.0? How Olympus and TIME actually work",
+        "length": "10 minutes, 21 seconds",
+        "thumbnail": "https://i.ytimg.com/vi/I34lOvUWsNc/hqdefault.jpg"
+    },
+    {
+        "id": "o699i_l_qy8",
+        "title": "What is OlympusDAO? - OHM Explained with Animations",
+        "length": "10 minutes, 55 seconds",
+        "thumbnail": "https://i.ytimg.com/vi/o699i_l_qy8/hqdefault.jpg"
+    },
+    {
+        "id": "XtKTk-ebyQE",
+        "title": "What is Algorand? ALGO Explained with Animations",
+        "length": "8 minutes, 52 seconds",
+        "thumbnail": "https://i.ytimg.com/vi/XtKTk-ebyQE/hqdefault.jpg"
+    },
+    {
+        "id": "I_vCOzEbSMI",
+        "title": "What is Neo? N3 Explained with Animations",
+        "length": "10 minutes, 8 seconds",
+        "thumbnail": "https://i.ytimg.com/vi/I_vCOzEbSMI/hqdefault.jpg"
+    },
+    {
+        "id": "o9ObYRjpIhs",
+        "title": "How to Make Money with Crypto - DeFi For Beginners",
+        "length": "17 minutes, 32 seconds",
+        "thumbnail": "https://i.ytimg.com/vi/o9ObYRjpIhs/hqdefault.jpg"
+    },
+    {
+        "id": "XSni6bp4juw",
+        "title": "Our 100th Video: The WhiteboardCrypto Club Advertisement!",
+        "length": "12 minutes, 15 seconds",
+        "thumbnail": "https://i.ytimg.com/vi/XSni6bp4juw/hqdefault.jpg"
+    },
+    {
+        "id": "UuyS7YAkECA",
+        "title": "How to get Free Crypto without getting SCAMMED - 13 Real Methods",
+        "length": "10 minutes, 5 seconds",
+        "thumbnail": "https://i.ytimg.com/vi/UuyS7YAkECA/hqdefault.jpg"
+    },
+    {
+        "id": "dJA5L4ZUTtU",
+        "title": "Crypto Scams to Avoid - 10 Tricks Scammers Use",
+        "length": "15 minutes, 57 seconds",
+        "thumbnail": "https://i.ytimg.com/vi/dJA5L4ZUTtU/hqdefault.jpg"
+    },
+    {
+        "id": "mw532FqALsY",
+        "title": "How to AVOID Crypto Taxes - 4 Legal Examples (Beginner to Advanced)",
+        "length": "16 minutes, 2 seconds",
+        "thumbnail": "https://i.ytimg.com/vi/mw532FqALsY/hqdefault.jpg"
+    },
+    {
+        "id": "IX6rUhNC8uA",
+        "title": "What is Balancer? Crypto Index Funds and BAL Explained with Animations",
+        "length": "11 minutes, 42 seconds",
+        "thumbnail": "https://i.ytimg.com/vi/IX6rUhNC8uA/hqdefault.jpg"
+    },
+    {
+        "id": "WyHNu0rnZNk",
+        "title": "What is IoTeX? IOTX Explained with Animations",
+        "length": "10 minutes, 25 seconds",
+        "thumbnail": "https://i.ytimg.com/vi/WyHNu0rnZNk/hqdefault.jpg"
+    },
+    {
+        "id": "gBjkG4G8o9k",
+        "title": "Dogecoin Millionaire - Ripping apart a memecoin investor's claims",
+        "length": "12 minutes, 11 seconds",
+        "thumbnail": "https://i.ytimg.com/vi/gBjkG4G8o9k/hqdefault.jpg"
+    }
+]
